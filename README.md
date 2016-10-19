@@ -1,4 +1,4 @@
-# Seyren in a Docker container
+# Seyren Docker Container
 
 ## TL;DR
 
